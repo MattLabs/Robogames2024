@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|c:\\users\\dan\\documents\\lenovobackup\\rn\\32feet-main\\rncontrol\\rnprojects\\freestyle.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|solutionrelative:freestyle.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|c:\\users\\dan\\documents\\lenovobackup\\rn\\32feet-main\\rncontrol\\rnprojects\\freestyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|solutionrelative:freestyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|c:\\users\\dan\\documents\\lenovobackup\\rn\\32feet-main\\rncontrol\\rnprojects\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|c:\\users\\dan\\documents\\lenovobackup\\rn\\32feet-main\\rncontrol\\rnprojects\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|c:\\users\\dan\\documents\\lenovobackup\\rn\\32feet-main\\rncontrol\\rnprojects\\robonova.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9D2CA21B-21C7-45DC-82DE-90EBB05641D0}|RoboNova.csproj|solutionrelative:robonova.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 372,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FreeStyle.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\FreeStyle.xaml.cs",
+              "RelativeDocumentMoniker": "FreeStyle.xaml.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\FreeStyle.xaml.cs",
+              "RelativeToolTip": "FreeStyle.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:27:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FreeStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\FreeStyle.xaml",
+              "RelativeDocumentMoniker": "FreeStyle.xaml",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\FreeStyle.xaml",
+              "RelativeToolTip": "FreeStyle.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T00:26:56.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:54:45.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:54:31.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoboNova",
+              "DocumentMoniker": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\RoboNova.csproj",
+              "RelativeDocumentMoniker": "RoboNova.csproj",
+              "ToolTip": "C:\\Users\\Dan\\Documents\\LenovoBackup\\RN\\32feet-main\\RNcontrol\\RNprojects\\RoboNova.csproj",
+              "RelativeToolTip": "RoboNova.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T00:47:47.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 55,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

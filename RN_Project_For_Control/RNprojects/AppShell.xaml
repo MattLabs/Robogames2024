@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="RoboNova.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:RoboNova"
+    Shell.FlyoutBehavior="Flyout"
+    FlyoutBackgroundColor="Black"
+    
+     >
+    <Shell.ItemTemplate>
+        <DataTemplate>
+            <StackLayout HorizontalOptions="StartAndExpand" >
+                <Label Text="{Binding Title}" 
+                   HorizontalOptions="Start" Margin="0,0,0,0"
+                   Padding="1"
+                   FontSize="Large"
+                       TextColor="White"
+                   />
+            </StackLayout>
+        </DataTemplate>
+    </Shell.ItemTemplate>
+    
+    <ShellContent
+            Title="Main"
+            ContentTemplate="{DataTemplate local:MainPage }"            
+            Route="MainPage" />
+
+    <ShellContent
+        Title="Bluetooth Devices"
+        ContentTemplate="{DataTemplate local:BluetoothConnection}"
+        Route="BluetoothConnection" />
+
+    <ShellContent
+        Title="Kung Fu"
+        ContentTemplate="{DataTemplate local:KungFu}"
+        Route="KungFu" />
+
+    <ShellContent
+        Title="Soccer"
+        ContentTemplate="{DataTemplate local:Soccer}"
+        Route="Soccer" />
+
+    <ShellContent
+        Title="Free Style"
+        ContentTemplate="{DataTemplate local:FreeStyle}"
+        Route="FreeStyle" />
+    <ShellContent
+        Title="Stair Climb"
+        ContentTemplate="{DataTemplate local:StairClimb}"
+        Route="StairClimb" />
+    <ShellContent
+        Title="Close App"
+        ContentTemplate="{DataTemplate local:CloseApp}"
+        Route="CloseApp" />
+</Shell>
