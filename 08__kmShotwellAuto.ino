@@ -1,18 +1,4 @@
-// The "serial receive buffer" is in hardware in the hardware UART
-// Create array of char to store incoming bytes
-// Check to see if anyting in "serial receive buffer"
-// While there is something to read
-//   read single byte and store in temp variable
-//   check character as message data, or terminating character, or too long
-//   if message, save to char array
-//   if terminating character, output message to arduino DEBUG window
-//   check for max message length
 
-// Serial Libray  with functions starting with Serial.
-// To run: Use Arduino DEBUG window to enter a message and hit enter
-//         Then it will print back in the message window
-//         This makes no sense to me as a way to demonstrate serial but OK
-//         Aren't we just talking to ourself
 // HARDWARE:  Arduino Leonardo and Serial Cable into Laptop
 // Leonardo has 2 serials ports - Use SerialONE Serial1 for TX and RX pins
 
